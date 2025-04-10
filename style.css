@@ -131,6 +131,7 @@ body {
 
 /* Blog Title */
 #blog_title {
+    color:#f50e61;
     margin-left: 160px;
     font-family: Poppins;
     font-weight: 600;
@@ -240,6 +241,7 @@ a {
 
 #about_body .text_body h1 {
     font-size: 3em;
+    color:#f50e61;
 }
 
 #about_body .text_body p {
@@ -273,6 +275,7 @@ a {
 #contact_body .text_body h1 {
     text-align: center;
     font-size: 3em;
+    color: #f50e61;
 }
 
 #contact_body .text_body a {
